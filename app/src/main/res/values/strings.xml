@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">My Universe</string>
+    <string name="title_activity_edit">EditActivity</string>
+    <string-array name="body_type">
+        <item>Planet</item>
+        <item>Star</item>
+        <item>BlackHole</item>
+        <item>Burst</item>
+        <item>Struct</item>
+    </string-array>
+    <string-array name="special_type_planet">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+        <item>Moon</item>
+        <item>Phobos</item>
+        <item>Deimos</item>
+        <item>Ganymede</item>
+        <item>Callisto</item>
+        <item>Europa</item>
+        <item>Io</item>
+        <item>Titan</item>
+        <item>Enceladus</item>
+        <item>Rhea</item>
+        <item>Dione</item>
+        <item>Mimas</item>
+        <item>Tethys</item>
+        <item>Iapetus</item>
+        <item>Oberon</item>
+        <item>Titania</item>
+        <item>Umbriel</item>
+        <item>Triton</item>
+        <item>Pluto</item>
+        <item>Charon</item>
+        <item>Ceres</item>
+    </string-array>
+    <string-array name="special_type_star">
+        <item>Sun</item>
+        <item>Alpha Centauri A</item>
+        <item>Alpha Centauri B</item>
+        <item>Proxima Centauri</item>
+        <item>Wolf 359</item>
+        <item>Sirius A</item>
+        <item>Sirius B</item>
+        <item>Rigel</item>
+        <item>VY Canis Majoris</item>
+        <item>ETA Carinae A</item>
+        <item>Crab Pulsar</item>
+    </string-array>
+    <string-array name="special_type_blackhole">
+        <item>Sagitarrus A</item>
+        <item>NGC 1277</item>
+        <item>S5 0014 81</item>
+        <item>GRO 1655 40</item>
+    </string-array>
+    <string-array name="special_type_burst">
+        <item>Hyper Nova</item>
+        <item>Super Nova</item>
+        <item>Gamma Ray Burst</item>
+        <item>Tsar Bomb</item>
+    </string-array>
+    <string-array name="special_type_struct">
+        <item>Solar System and Moons</item>
+        <item>Solar System</item>
+        <item>Earth and Moon</item>
+        <item>Mars and Moons</item>
+        <item>Jupiter and Moons</item>
+        <item>Saturn and Moons</item>
+        <item>Uranus and Moons</item>
+        <item>Neptune and Moons</item>
+    </string-array>
+    <string name="create">CREATE</string>
+    <string name="edit">EDIT</string>
+    <string name="start">START</string>
+    <string name="pause">PAUSE</string>
+</resources>

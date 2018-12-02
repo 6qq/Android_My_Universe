@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorEditMenu">#bdb</color>
+    <color name="temp0">#000000</color>
+    <color name="temp1">#1E0000</color>
+    <color name="temp2">#570100</color>
+    <color name="temp4">#A10200</color>
+    <color name="temp6">#D40000</color>
+    <color name="temp8">#F90101</color>
+    <color name="temp12">#FF2702</color>
+    <color name="temp15">#FF4500</color>
+    <color name="temp18">#FE6B01</color>
+    <color name="temp22">#FFAA01</color>
+    <color name="temp28">#F9CD01</color>
+    <color name="temp30">#F9E512</color>
+    <color name="temp32">#F7ED34</color>
+    <color name="temp35">#FAF57F</color>
+    <color name="temp38">#FCF8AE</color>
+    <color name="temp43">#F7F7FF</color>
+    <color name="temp50">#CACAFF</color>
+    <color name="temp56">#B5B5FF</color>
+    <color name="temp65">#8483FB</color>
+    <color name="temp80">#5E5EFE</color>
+</resources>
